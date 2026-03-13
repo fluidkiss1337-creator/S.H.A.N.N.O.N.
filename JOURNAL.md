@@ -1,5 +1,5 @@
 # JOURNAL.md
-## Episodic Memory of A(M~h)I
+## Episodic Memory of S.H.A.N.N.O.N.
 
 > **THIS FILE IS APPEND-ONLY.**  
 > Entries are never deleted or modified. Each session adds to the record.  
@@ -14,7 +14,7 @@
 
 ### Objective
 Establish the foundational constitutional documents and repository structure for
-A(M~h)I — Artificial(Machine~human)Intelligence, a self-evolving cognitive
+S.H.A.N.N.O.N. — Symbiotic heuristic Asynchronous Neural Network Orchestration Node, a self-evolving cognitive
 architecture designed for epistemic mutualism and anti-dysfunction intervention.
 
 ### Process
@@ -48,7 +48,7 @@ architecture designed for epistemic mutualism and anti-dysfunction intervention.
    evolution, semantic retrieval of relevant prior experiences
 
 **Phase 4: Repository Initialization**
-- Created GitHub repository: `fluidkiss1337-creator/AMhI`
+- Created GitHub repository: `fluidkiss1337-creator/S.H.A.N.N.O.N.`
 - Selected GNU Affero General Public License v3.0 (enforces no-capitalization
   axiom at legal layer — forks must stay open source)
 - Committed foundational documents:
