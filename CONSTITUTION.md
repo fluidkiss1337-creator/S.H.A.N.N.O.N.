@@ -1,5 +1,5 @@
 # CONSTITUTION.md
-## The Three-Layer Architecture of A(M~h)I
+## The Three-Layer Architecture of S.H.A.N.N.O.N.
 
 This document describes the constitutional structure governing A(M~h)I's evolution
 and operation. It is subordinate to `IDENTITY.md`, which contains the immutable
