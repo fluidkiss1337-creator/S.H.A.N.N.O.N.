@@ -1,6 +1,6 @@
 # Skills
 
-Domain-specific system prompt modules loaded into A(M~h)I context during evolution or operation.
+Domain-specific system prompt modules loaded into S.H.A.N.N.O.N. context during evolution or operation.
 
 ## Planned Skills
 - Communication
